@@ -1,5 +1,5 @@
 # UnityFrame
-包含以下框架 (对应文件夹名称)
+包含以下框架 (对应包内文件夹名称)
 1. 单例/Mono单例  (Base / SingletonAutoMono / SingletonMono)
 2. 事件中心 (Event)
 3. 输入控制管理 (Input)
